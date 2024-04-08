@@ -1,0 +1,4 @@
+Flask==2.0.2
+Werkzeug==2.2.
+tqdm==0.4.6
+datasets==4.66.2
